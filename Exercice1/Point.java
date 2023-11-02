@@ -1,6 +1,6 @@
 package Exercice1;
 
-
+// jolie code
 
 public class Point{
     private double abscisse;
